@@ -9,6 +9,6 @@ public class Dog {
     String name;
 
     void bark(){
-        System.out.println("Wa Wa Wa Yipiyo yipiye ..");
+        System.out.println("Wa Wa Wa Yipiyo yipiye .. " + this.name);
     }
 }
