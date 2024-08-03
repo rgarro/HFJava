@@ -1,7 +1,6 @@
 # HFJava
 
-java sketches before android takes off
-
+Java Sketches before ...
 
 
 
