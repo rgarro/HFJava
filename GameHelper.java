@@ -1,5 +1,5 @@
 /*
- * jill fired jira
+ * Jill fired Jira
  * 
  *@author Rolando <rgarro@gmail.com> 
  */
